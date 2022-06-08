@@ -2,6 +2,7 @@
 
 
 ## use Magic to deploy on heroku
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ryoo1/Backend) 
 
 ## auth0 configuration
 

@@ -2,8 +2,9 @@
 
 
 ## use Magic to deploy on heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ryoo1/Backend) 
-
+ <a href="https://heroku.com/deploy?template=https://github.com/Ryoo1/Backend">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
+ 
 ## auth0 configuration
 
 ### Create an application on auth0 [Single Page Application]
